@@ -410,7 +410,7 @@ const FAQS = [
     a: "No app: <strong>Crédito → Empréstimo pessoal → Simular</strong>. Informe o valor e prazo para ver as condições. Se aprovada a simulação, prossiga com a contratação digital. Documentos geralmente necessários: RG, CPF e comprovante de renda atualizado."
   },
   {
-    cat: "credito", icon: "ti-money",
+    cat: "credito", icon: "ti-question",
     q: "Como funciona a antecipação do 13º salário e IR?",
     a: "A antecipação do <strong>13º salário</strong> fica disponível a partir de maio de cada ano. Para restituição de IRPF, a antecipação pode ser feita após a entrega da declaração ao fisco. Ambas são acessadas pelo app em <strong>Crédito → Ver ofertas disponíveis</strong>."
   },
@@ -437,7 +437,7 @@ const FAQS = [
     a: "Faça login → <strong>Perfil → Segurança → Biometria → Habilitar</strong>. O dispositivo precisa ter biometria configurada no sistema operacional. Para desativar, repita o caminho e toque em 'Desativar'. O PIN continua como alternativa."
   },
   {
-    cat: "app", icon: "ti-signal",
+    cat: "app", icon: "ti-device-mobile",
     q: "Como acessar o Internet Banking Sicoob?",
     a: "Acesse <a href='https://www.sicoob.com.br' target='_blank'>www.sicoob.com.br</a> → clique em <strong>'Internet Banking'</strong>. Faça login com CPF e senha. O primeiro acesso requer o uso do app para liberar o dispositivo como confiável."
   },
